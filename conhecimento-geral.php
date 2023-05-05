@@ -24,7 +24,7 @@ $variavelDouble       = 1.2;
 echo $variavel_string;
 
 
-#funções de matématica - o que será q o PHP nos reserva
+
 
 $numero1 = 1;
 $numero2 = 2;
