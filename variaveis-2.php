@@ -12,9 +12,5 @@ echo "Olá, Mundo!\n";
 echo "Olá, meu nome é $nome.\nTenho $idade anos! Meço $altura.\nSou ";
 echo $brasileiro ? "brasileiro" : "estrangeiro"; 
 echo "\n";
-// echo $nome;
-// echo $idade;
-// echo $altura;
-// echo $brasileiro;
 // Se você quiser escrever como se fosse um texto, use aspas simples '. Se quiser escrever chamando variáveis, quebrando linha e etc, usa aspas dupals ".
 ?>
